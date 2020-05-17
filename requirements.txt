@@ -1,0 +1,23 @@
+### DOWNLOAD AND INSTALL ANACONDA
+### conda create -n tf_gpu tensorflow-gpu
+### conda activate tf_gpu
+### pip install -r requirements.txt
+### conda install -c conda-forge shap
+### python -m pip install xgboost
+
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+lightgbm
+opencv-python
+scikit-image
+requests
+bs4
+lxml
+flask
+imutils
+pydotplus
+pyodbc
