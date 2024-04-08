@@ -1,7 +1,7 @@
-# Oculace - face mask detection
+# Face mask detection
 
 ## What It does
-1. Detects whether or not a person is putting on a face mask and labels appropriately
+1. It detects if someone uses facemask or not
 2. Takes pictures of people not putting on face mask and saves on file
 3. Saves time stamp to database
 
